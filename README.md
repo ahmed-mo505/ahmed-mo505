@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa Ibrahim</h1>
-<h3 align="center">Artificial Intelligence graduate | ITI Power BI trainee | Data Science, Data Analytics & Data Engineering</h3>
+<h3 align="center">Artificial Intelligence graduate | ITI Power BI trainee | Data Analytics & Data Engineering</h3>
 
 <p align="center">
   📫 Reach me at: <strong>off.ahmed.mostafa@gmail.com</strong>
